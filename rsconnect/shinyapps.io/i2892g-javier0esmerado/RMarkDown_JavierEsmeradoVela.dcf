@@ -1,0 +1,14 @@
+name: RMarkDown_JavierEsmeradoVela
+title:
+username:
+account: i2892g-javier0esmerado
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7698928
+bundleId: 6541025
+url: https://i2892g-javier0esmerado.shinyapps.io/RMarkDown_JavierEsmeradoVela/
+when: 1669074858.81192
+lastSyncTime: 1669074858.81193
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|ui.html|ui.md|ui.Rmd|ui.txt

@@ -1,0 +1,14 @@
+name: Actividad1_JavierEsmerado
+title: Actividad1_JavierEsmerado
+username:
+account: i2892g-javier0esmerado
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7696213
+bundleId: 6541031
+url: https://i2892g-javier0esmerado.shinyapps.io/Actividad1_JavierEsmerado/
+when: 1669075144.50869
+lastSyncTime: 1669075144.5087
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|ui.html|ui.md|ui.Rmd|ui.txt
